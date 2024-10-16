@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": "275978200721",
+      "description": "computador",
+      "price": 6000,
+      "category": "Perifericos",
+      "type": "outcome",
+      "createdAt": "2024-10-11T17:33:48.026Z"
+    },
+    {
+      "id": "1238083429942",
+      "description": "lanche",
+      "price": 40,
+      "category": "Comida",
+      "type": "outcome",
+      "createdAt": "2024-10-11T17:38:20.366Z"
+    },
+    {
+      "id": "417335408811",
+      "description": "tenis",
+      "price": 300,
+      "category": "Calçado",
+      "type": "outcome",
+      "createdAt": "2024-10-11T17:42:59.740Z"
+    },
+    {
+      "id": "206647542654",
+      "description": "Desenvolvimento de site",
+      "price": 15000,
+      "category": "Freelancer",
+      "type": "income",
+      "createdAt": "2024-10-11T17:46:04.629Z"
+    }
+  ]
+}
